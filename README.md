@@ -46,7 +46,7 @@ I’m a **Software Engineer** and **Master’s graduate in Computer Science** at
 - **Phone**: +1 (716) 480-9710  
 - **Location**: Buffalo, NY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahitha3009&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitha3009&layout=compact&theme=radical)
 
 *“Code isn’t just logic—it’s a story of problem-solving, creativity, and a little bit of magic.”*
